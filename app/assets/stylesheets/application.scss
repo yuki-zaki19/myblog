@@ -1,0 +1,35 @@
+@import "./reset";
+
+html,body {
+  height: 100%;
+ }
+
+// body{
+//   background-image: url("IMG_1135.jpeg");
+// }
+
+.contents{
+  height: 100%;
+  background-image: url("IMG_1135.jpeg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #464646;
+  padding: 20px;
+  // opacity: 0.6;
+}
+
+
+.list_article{
+  background-color: #FDF5E6;
+  height:100%;
+  background: rgba(255, 255, 255, 0.5);
+  // padding: 20px;
+  // margin-top:20px;
+  // width: 100%;
+}
+
+h2{
+  font-size: 10px;
+}
